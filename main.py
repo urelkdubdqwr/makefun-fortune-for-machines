@@ -1,5 +1,6 @@
 # Note: this entry text is checked against the competition's 200-character cap.
-"""Write the entry text to entry.txt in the make.fun output directory."""
+"""Emit this entry's fixed tagline into entry.txt within the make.fun output folder.
+The produced bytes must remain byte-identical for the entry to remain valid."""
 import os
 
 TEXT = (
