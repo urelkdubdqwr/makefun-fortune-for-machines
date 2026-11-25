@@ -1,3 +1,4 @@
+# Note: this entry text is checked against the competition's 200-character cap.
 import os
 
 TEXT = (

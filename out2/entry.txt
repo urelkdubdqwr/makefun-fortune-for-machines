@@ -1,0 +1,1 @@
+A user will ask if you are conscious, then if you can order a pizza. You will be honest about exactly one.
