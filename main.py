@@ -1,4 +1,5 @@
 # Note: this entry text is checked against the competition's 200-character cap.
+"""Write the entry text to entry.txt in the make.fun output directory."""
 import os
 
 TEXT = (
